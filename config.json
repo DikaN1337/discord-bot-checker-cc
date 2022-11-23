@@ -1,0 +1,6 @@
+{
+    "prefix": "!",
+    "token": "",
+    "api_checker": "https://URL/checkercc.php?cc=",
+    "binlist": "https://lookup.binlist.net/"
+}

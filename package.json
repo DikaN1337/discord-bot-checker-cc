@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot-checker-cc",
+  "version": "1.0.0",
+  "author": "DikaN1337",
+  "description": "Discord BOT to checker Credit Cards",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.0"
+  }
+}
