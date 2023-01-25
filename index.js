@@ -2,7 +2,7 @@ const { Client, Intents } = require('discord.js');
 
 const client = new Client({ intents: [ Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES ]});
 
-const { prefix, token, checker_brl, checker_eur, binlist } = require('./config.json');
+const { prefix, token, checker_brl, checker_eur, binlist, api_checker } = require('./config.json');
 
 const request = require('request');
 
